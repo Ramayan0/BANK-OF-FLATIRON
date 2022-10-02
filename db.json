@@ -83,6 +83,48 @@
       "description": "Venmo, Pay Roommate for Rent",
       "category": "Housing",
       "amount": -975
+    },
+    {
+      "date": "2022-09-02",
+      "description": "buy food",
+      "category": "food",
+      "amount": "0.03",
+      "id": 13
+    },
+    {
+      "date": "2022-10-18",
+      "description": "Meat, Vegetables, juices ",
+      "category": "Meal",
+      "amount": "0.04",
+      "id": 14
+    },
+    {
+      "date": "2022-10-14",
+      "description": "hafsa",
+      "category": "doo",
+      "amount": "88",
+      "id": 15
+    },
+    {
+      "date": "2022-10-20",
+      "category": "Meal",
+      "amount": "000",
+      "description": "yesss",
+      "id": 16
+    },
+    {
+      "date": "2022-10-13",
+      "category": "Meals",
+      "amount": "99",
+      "description": "Meat, Vegetables, juices ",
+      "id": 17
+    },
+    {
+      "date": "2022-10-13",
+      "category": "Utensils",
+      "amount": "990",
+      "description": "Spoon,  Plate, Cup",
+      "id": 18
     }
   ]
 }
